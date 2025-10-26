@@ -98,8 +98,8 @@ int main(int argc, char *argv[]) {
 
 
 ## OUTPUT
-![alt text](../1.png)
 
+![alt text](imag/1.png)
 
 
 # RESULT:
